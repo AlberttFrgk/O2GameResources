@@ -1,8 +1,8 @@
-# Unnamed O2 Clone "UO2C" - Resources
+# O2Clone - Resources
 A repository to store resources for the Unnamed O2 Clone "UO2C" project.
 
 ## How to use it
-1. Clone the [UO2C](https://github.com/estrol/o2game) repository recursively.
+1. Clone the [Resources](https://github.com/AlberttFrgk/O2GameResources) repository recursively.
 2. Compile the project.
 
 ## License
